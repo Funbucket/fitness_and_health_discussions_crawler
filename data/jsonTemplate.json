@@ -1,0 +1,20 @@
+{ 
+  "discussions": [
+    {
+      "title": "Discussion 1",
+      "description": "This is discussion 1",
+      "comments": [
+          "This is comment 1",
+          "This is comment 2"
+      ]
+    },
+    { 
+      "title": "Discussion 2",
+      "description": "This is discussion 2",
+      "comments": [
+          "This is comment 1",
+          "This is comment 2"
+      ]
+    }
+  ]
+}
